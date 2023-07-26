@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-list-useReducer/static/css/main.bec57ba7.css",
+    "main.js": "/todo-list-useReducer/static/js/main.27122376.js",
+    "index.html": "/todo-list-useReducer/index.html",
+    "main.bec57ba7.css.map": "/todo-list-useReducer/static/css/main.bec57ba7.css.map",
+    "main.27122376.js.map": "/todo-list-useReducer/static/js/main.27122376.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bec57ba7.css",
+    "static/js/main.27122376.js"
+  ]
+}
